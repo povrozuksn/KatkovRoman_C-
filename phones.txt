@@ -1,0 +1,8 @@
+Samsung S10, 41999, Samsung, 8/128
+Samsung S21, 49999, Samsung, 6/128
+Samsung Z Fold 3, 149999, Samsung, 12/512
+Iphone X, 39999, Iphone, 3/64 или 3/256
+Iphone XS, 46999, Iphone, 3/64 или 3/256 или 3/512
+Iphone 11, 49999, Iphone, 4/64 или 4/128 или 4/256
+Iphone 12, 79999, Iphone, 4/64 или 4/128 или 4/256
+Iphone 13, 74999, Iphone, 4/64 или 4/256 или 4/512

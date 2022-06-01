@@ -1,0 +1,43 @@
+C:\С++\Роман\c#\catalog\catalog\bin\Debug\catalog.exe.config
+C:\С++\Роман\c#\catalog\catalog\bin\Debug\catalog.exe
+C:\С++\Роман\c#\catalog\catalog\bin\Debug\catalog.pdb
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.csproj.AssemblyReference.cache
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.csproj.SuggestedBindingRedirects.cache
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.mainform.resources
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.Properties.Resources.resources
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.csproj.GenerateResource.cache
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.csproj.CoreCompileInputs.cache
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.exe
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.pdb
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.iphone.resources
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.samsung.resources
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.phoneinfo.resources
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.Filtr.resources
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.liked.resources
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.create.resources
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.sendmail.resources
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.ass.resources
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.aut.resources
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.reg.resources
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.spr.resources
+C:\Документы\!\Инженерка\С++\Материалы учащихся\2022-2 семестр\КатковРоман\catalog\bin\Debug\catalog.exe.config
+C:\Документы\!\Инженерка\С++\Материалы учащихся\2022-2 семестр\КатковРоман\catalog\bin\Debug\catalog.exe
+C:\Документы\!\Инженерка\С++\Материалы учащихся\2022-2 семестр\КатковРоман\catalog\bin\Debug\catalog.pdb
+C:\Документы\!\Инженерка\С++\Материалы учащихся\2022-2 семестр\КатковРоман\catalog\obj\Debug\catalog.csproj.AssemblyReference.cache
+C:\Документы\!\Инженерка\С++\Материалы учащихся\2022-2 семестр\КатковРоман\catalog\obj\Debug\catalog.ass.resources
+C:\Документы\!\Инженерка\С++\Материалы учащихся\2022-2 семестр\КатковРоман\catalog\obj\Debug\catalog.aut.resources
+C:\Документы\!\Инженерка\С++\Материалы учащихся\2022-2 семестр\КатковРоман\catalog\obj\Debug\catalog.create.resources
+C:\Документы\!\Инженерка\С++\Материалы учащихся\2022-2 семестр\КатковРоман\catalog\obj\Debug\catalog.Filtr.resources
+C:\Документы\!\Инженерка\С++\Материалы учащихся\2022-2 семестр\КатковРоман\catalog\obj\Debug\catalog.liked.resources
+C:\Документы\!\Инженерка\С++\Материалы учащихся\2022-2 семестр\КатковРоман\catalog\obj\Debug\catalog.phoneinfo.resources
+C:\Документы\!\Инженерка\С++\Материалы учащихся\2022-2 семестр\КатковРоман\catalog\obj\Debug\catalog.reg.resources
+C:\Документы\!\Инженерка\С++\Материалы учащихся\2022-2 семестр\КатковРоман\catalog\obj\Debug\catalog.sendmail.resources
+C:\Документы\!\Инженерка\С++\Материалы учащихся\2022-2 семестр\КатковРоман\catalog\obj\Debug\catalog.iphone.resources
+C:\Документы\!\Инженерка\С++\Материалы учащихся\2022-2 семестр\КатковРоман\catalog\obj\Debug\catalog.mainform.resources
+C:\Документы\!\Инженерка\С++\Материалы учащихся\2022-2 семестр\КатковРоман\catalog\obj\Debug\catalog.Properties.Resources.resources
+C:\Документы\!\Инженерка\С++\Материалы учащихся\2022-2 семестр\КатковРоман\catalog\obj\Debug\catalog.samsung.resources
+C:\Документы\!\Инженерка\С++\Материалы учащихся\2022-2 семестр\КатковРоман\catalog\obj\Debug\catalog.spr.resources
+C:\Документы\!\Инженерка\С++\Материалы учащихся\2022-2 семестр\КатковРоман\catalog\obj\Debug\catalog.csproj.GenerateResource.cache
+C:\Документы\!\Инженерка\С++\Материалы учащихся\2022-2 семестр\КатковРоман\catalog\obj\Debug\catalog.csproj.CoreCompileInputs.cache
+C:\Документы\!\Инженерка\С++\Материалы учащихся\2022-2 семестр\КатковРоман\catalog\obj\Debug\catalog.exe
+C:\Документы\!\Инженерка\С++\Материалы учащихся\2022-2 семестр\КатковРоман\catalog\obj\Debug\catalog.pdb
